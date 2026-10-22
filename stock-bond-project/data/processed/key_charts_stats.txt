@@ -1,0 +1,11 @@
+Correlation of monthly S&P 500 and 10-year Treasury returns by inflation level
+Inflation  Months   Corr   95% CI
+Under 2%      273  -0.34   [-0.44, -0.23]
+2–3%          192  +0.03   [-0.11, +0.18]
+3–4%          161  +0.13   [-0.02, +0.28]
+4–6%          127  +0.29   [+0.12, +0.44]
+Over 6%       126  +0.25   [+0.08, +0.41]
+
+High inflation (> 3%): +0.23 over 414 months
+Low inflation (<= 3%): -0.19 over 465 months
+Fisher z-test for the difference: z = 6.32, p = 3e-10
