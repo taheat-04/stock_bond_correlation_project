@@ -24,6 +24,3 @@ Correlation by decade:
   2000s: -0.20  (avg inflation 2.6%)
   2010s: -0.50  (avg inflation 1.8%)
   2020s: +0.00  (avg inflation 3.9%)
-
-Rolling 36m correlation: min -0.78 (2013-03), max +0.70 (1996-01), latest +0.15 (2026-08)
-Share of months with positive rolling correlation: 58%
